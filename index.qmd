@@ -1,0 +1,14 @@
+---
+title: "The Database of Ranking Data in Political Science"
+---
+
+This page provides access to the political rankings database.
+
+## Download
+
+The complete database is available as a single ZIP file.
+
+
+## Codebook
+
+The guide to our database is available as a single codebook.
