@@ -2,7 +2,11 @@
 title: "The Database of Ranking Data in Political Science"
 ---
 
-This page provides access to the political rankings database.
+This project provides a unique database of ranking data in political science. 
+
+Our first release includes more than 50 ranking datasets from 28 published studies in leading journals in political science. Our data collection covers relevant studies published between 2005 and 2025 in the *American Journal of Political Science*, *American Political Science Review*, *British Journal of Political Science*, *International Organizations*, *Journal of Politics*, and *Political Analysis*.
+
+
 
 ## Download
 
@@ -15,3 +19,12 @@ The complete database is available as a single ZIP file.
 The guide to our database is available as a single codebook.
 
 [⬇ Download the codebook (PDF)](files/codebook.pdf)
+
+
+## Manuscript
+
+For the details about data collection, see our associated manuscript.
+
+[⬇ Download the paper (PDF)](files/atsusaka-singh-2026-political-rankings.pdf)
+
+
