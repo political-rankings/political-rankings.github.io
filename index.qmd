@@ -8,7 +8,10 @@ This page provides access to the political rankings database.
 
 The complete database is available as a single ZIP file.
 
+[⬇ Download the database (ZIP)](files/political-rankings.zip)
 
 ## Codebook
 
 The guide to our database is available as a single codebook.
+
+[⬇ Download the codebook (PDF)](files/codebook.pdf)
