@@ -1,5 +1,5 @@
 ---
-title: "The Database of Ranking Data in Political Science"
+title: "Database of Ranking Data in Political Science"
 ---
 
 Our first release includes more than 50 ranking datasets from 28 published studies in leading journals in political science. Our data collection covers relevant studies published between 2005 and 2025.
