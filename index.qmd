@@ -4,9 +4,9 @@ title: "Database of Ranking Data in Political Science"
 
 Across scientific disciplines, researchers use ranking data to study people's comparative judgments, preferences, and decision-making over a range of items, from medical treatments to political values. Yet existing data repositories have largely overlooked the rich and diverse ranking data collected and analyzed in social science research.
 
-To bridge the gap, *we introduce a database of standardized rankings based on various studies from leading political science journals.* Our first release covers 52 datasets from 28 original studies published between 2005 and 2025.
-
-Our database demonstrates notable variation in substantive topics and forms of ranking data that go well beyond canonical examples of candidate evaluations and value orientations, enabling researchers to perform comparative analyses, replication, reanalysis, methodological evaluation, and new substantive research with real-world political rankings.
+To bridge the gap, we introduce a database of standardized rankings based on various studies from leading political science journals. Our first release covers 52 datasets from 27 original studies published between 2005 and 2025. Our database demonstrates notable variation in substantive topics and forms of ranking data that go well beyond canonical examples of candidate evaluations and value orientations, enabling researchers to perform comparative analyses, replication, reanalysis, methodological evaluation, and new substantive research with real-world political rankings.\
+\
+The database of political rankings is developed and maintained by [Yuki Atsusaka](https://atsusaka.org/) and Shubhangi Singh. For helpful tools to analyze rankings, see also [R package: `rankingQ`](https://sysilviakim.com/rankingQ/).
 
 ## Download
 
@@ -24,7 +24,7 @@ The guide to our database is available as a single codebook.
 
 ## Manuscript
 
-For the details about data collection, see our associated manuscript.
+For the details about the motivation, data collection, and validation, see our associated manuscript.
 
 [⬇ Download the paper (PDF)](https://github.com/political-rankings/political-rankings.github.io/releases/latest/download/atsusaka-singh-2026.pdf)
 
