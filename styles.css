@@ -1,1 +1,31 @@
-/* css styles */
+/* Site-wide accent color */
+:root {
+  --bs-primary: #0171B0;
+  --bs-primary-rgb: 1, 113, 176;
+  --bs-link-color: #0171B0;
+  --bs-link-color-rgb: 1, 113, 176;
+  --bs-link-hover-color: #005c8e;
+  --bs-link-hover-color-rgb: 0, 92, 142;
+}
+
+a {
+  color: #0171B0;
+}
+
+a:hover,
+a:focus {
+  color: #005c8e;
+}
+
+::selection {
+  background: #0171B0;
+  color: #fff;
+}
+
+.navbar-brand-logo .navbar-logo {
+  height: 32px;
+  margin-right: 0.5rem;
+  max-height: 32px;
+  min-height: 32px;
+  width: 32px;
+}

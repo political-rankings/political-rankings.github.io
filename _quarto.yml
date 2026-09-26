@@ -4,6 +4,9 @@ project:
 website:
   title: "PRD"
   navbar:
+    logo: prd-logo.svg
+    logo-alt: "PRD"
+    title: false
     left:
       - href: index.qmd
         text: Data
