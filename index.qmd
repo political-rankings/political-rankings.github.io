@@ -10,7 +10,13 @@ The database of political rankings is developed and maintained by [Yuki Atsusaka
 
 ### Examples
 
-<img src="replication-findings.png" alt="Replications of [Atsusaka and Kim (2025)](https://doi.org/10.1017/pan.2024.33), [Haas and Lindstam (2023)](https://doi.org/10.1017/S000305542300117X), [Corstange and York (2018)](https://doi.org/10.1111/ajps.12348), and [Krupnikov and Levine (2019)](https://doi.org/10.1086/701722)." class="replication-findings"/>
+<figure class="replication-findings">
+
+<img src="replication-findings.png" alt=""/>
+
+<figcaption>Replications of <a href="https://doi.org/10.1017/pan.2024.33">Atsusaka and Kim (2025)</a>, <a href="https://doi.org/10.1017/S000305542300117X">Haas and Lindstam (2023)</a>, <a href="https://doi.org/10.1111/ajps.12348">Corstange and York (2018)</a>, and <a href="https://doi.org/10.1086/701722">Krupnikov and Levine (2019)</a>.</figcaption>
+
+</figure>
 
 ## Download
 
@@ -19,8 +25,6 @@ The complete database is available as a single ZIP file.
 [⬇ Download the database (ZIP)](https://github.com/political-rankings/political-rankings.github.io/releases/latest/download/political-rankings.zip)
 
 <p id="database-download-count" class="download-count" aria-live="polite">
-
-Loading download statistics…
 
 </p>
 
@@ -34,8 +38,6 @@ The guide to our database is available as a single codebook.
 
 <p id="codebook-download-count" class="download-count" aria-live="polite">
 
-Loading download statistics…
-
 </p>
 
 ## Manuscript
@@ -45,8 +47,6 @@ For the details about the motivation, data collection, and validation, see our a
 [⬇ Download the paper (PDF)](https://github.com/political-rankings/political-rankings.github.io/releases/latest/download/atsusaka-singh-2026.pdf)
 
 <p id="manuscript-download-count" class="download-count" aria-live="polite">
-
-Loading download statistics…
 
 </p>
 

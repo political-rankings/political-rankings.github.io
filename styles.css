@@ -23,10 +23,21 @@ a:focus {
 }
 
 .replication-findings {
-  display: block;
-  height: auto;
   margin: 1.5rem auto;
   max-width: 100%;
+}
+
+.replication-findings img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+.replication-findings figcaption {
+  color: #495057;
+  font-size: 0.9em;
+  margin-top: 0.5rem;
+  text-align: center;
 }
 
 .navbar-brand-logo .navbar-logo {
