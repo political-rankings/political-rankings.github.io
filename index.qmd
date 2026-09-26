@@ -2,11 +2,15 @@
 title: "Database of Ranking Data in Political Science"
 ---
 
-Across scientific disciplines, researchers have used ranking data to study people's comparative judgments, preferences, and decision-making over a range of items. While existing data-sharing infrastructures in statistics and machine learning, such as [PrefLib](https://preflib.github.io/PrefLib-Jekyll/), offer a rich collection of ranking datasets, including those related to politics, they are not necessarily designed specifically to support cumulative research in social science. 
+Across scientific disciplines, researchers have used ranking data to study people's comparative judgments, preferences, and decision-making over a range of items. While existing data-sharing infrastructures in statistics and machine learning, such as [PrefLib](https://preflib.github.io/PrefLib-Jekyll/), offer a rich collection of ranking datasets, including those related to politics, they are not necessarily designed specifically to support cumulative research in social science.
 
-To fill this gap, we introduce the first large-scale database of political rankings based on various studies from leading political science journals. Our first release covers 52 datasets from 27 original studies published between 2005 and 2025. Our database demonstrates notable variation in substantive topics and forms of ranking data that go well beyond canonical examples of candidate evaluations and value orientations, enabling researchers to perform comparative analyses, replication, reanalysis, methodological evaluation, and new substantive research with real-world political rankings.\
-\
+To fill this gap, we introduce the first large-scale database of political rankings based on various studies from leading political science journals. Our first release covers 52 datasets from 27 original studies published between 2005 and 2025. Our database demonstrates notable variation in substantive topics and forms of ranking data that go well beyond canonical examples of candidate evaluations and value orientations, enabling researchers to perform comparative analyses, replication, reanalysis, methodological evaluation, and new substantive research with real-world political rankings.
+
 The database of political rankings is developed and maintained by [Yuki Atsusaka](https://atsusaka.org/) and [Shubhangi Singh](https://scholar.google.com/citations?user=Nea56oAAAAAJ&hl=en). For helpful tools to analyze rankings, see also R package:[`rankingQ`](https://sysilviakim.com/rankingQ/).
+
+### Examples
+
+<img src="replication-findings.png" alt="Replications of [Atsusaka and Kim (2025)](https://doi.org/10.1017/pan.2024.33), [Haas and Lindstam (2023)](https://doi.org/10.1017/S000305542300117X), [Corstange and York (2018)](https://doi.org/10.1111/ajps.12348), and [Krupnikov and Levine (2019)](https://doi.org/10.1086/701722)." class="replication-findings"/>
 
 ## Download
 
@@ -14,7 +18,11 @@ The complete database is available as a single ZIP file.
 
 [⬇ Download the database (ZIP)](https://github.com/political-rankings/political-rankings.github.io/releases/latest/download/political-rankings.zip)
 
-<p id="database-download-count" class="download-count" aria-live="polite">Loading download statistics…</p>
+<p id="database-download-count" class="download-count" aria-live="polite">
+
+Loading download statistics…
+
+</p>
 
 *Note: Some entries for "ranking" may appear as dates or evaluated values depending on the set-up of your Excel tools. However, these are not errors contained in our database.*
 
@@ -24,7 +32,11 @@ The guide to our database is available as a single codebook.
 
 [⬇ Download the codebook (PDF)](https://github.com/political-rankings/political-rankings.github.io/releases/latest/download/codebook.pdf)
 
-<p id="codebook-download-count" class="download-count" aria-live="polite">Loading download statistics…</p>
+<p id="codebook-download-count" class="download-count" aria-live="polite">
+
+Loading download statistics…
+
+</p>
 
 ## Manuscript
 
@@ -32,7 +44,11 @@ For the details about the motivation, data collection, and validation, see our a
 
 [⬇ Download the paper (PDF)](https://github.com/political-rankings/political-rankings.github.io/releases/latest/download/atsusaka-singh-2026.pdf)
 
-<p id="manuscript-download-count" class="download-count" aria-live="polite">Loading download statistics…</p>
+<p id="manuscript-download-count" class="download-count" aria-live="polite">
+
+Loading download statistics…
+
+</p>
 
 ```{=html}
 <style>
